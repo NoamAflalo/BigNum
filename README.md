@@ -1,0 +1,2 @@
+# BigNum
+ Le but de cet exercice est de programmer une classe de Java qui va eˆtre capable de stocker un nombre entier quelconque sans perte de precision. Autrement dit, votre classe doit eˆtre capable de stocker des valeurs enormes, sans proble`mes de “overflow”. En plus, votre classe doit donner a` l’utilisateur la pos- sibilite ́ d’effectuer des ope ́rations e ́le ́mentaires dans les objets BigNum, comme l’addition/soustraction, la multiplication, la division, les comparaisons, etc.
